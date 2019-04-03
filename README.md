@@ -52,26 +52,3 @@ Below are links to help files for creating your own Section 6 Networking service
 ## FreeBSD - Topics in Web Development/Administration
 
 * [Setting up Apache 2.2.x for NTLM Authentication using Mod_NTLM2](tutorials/freebsd/webdevadm/setting-up-apache-2-2-x-for-ntlm-authentication-using-mod-ntlm2.md)
-
-## Linux
-
-### Linux - Topics in Administration
-
-* [Linux Basics: Fundamentals of Linux](tutorials/linux/administration/linux-basics-fundamentals-of-linux.md)
-* [Configuring NIS Services in Linux](tutorials/linux/administration/configuring-nis-services-in-linux.md)
-
-### Linux - Topics in Networking
-
-* [Configuring PPTP in Linux](tutorials/linux/networking/configuring-pptp-in-linux.md)
-* [Setting up Subversion in Linux](tutorials/linux/networking/setting-up-subversion-in-linux.md)
-
-### Linux - Topics in Security
-
-* [Setting up a Firewall/NAT using IPTables](tutorials/linux/security/creating-a-linux-firewall-using-iptables.md)
-* [Running Vservers on Debian](tutorials/linux/security/running-vservers-on-debian.md)
-
-### Linux - Monitoring
-
-* [Sensu Introduction](tutorials/linux/monitoring/sensu-introduction.md)
-* [Setting up Sensu Server](tutorials/linux/monitoring/sensu-server-in-ubuntu.md)
-* [Introduction to Graphite](tutorials/linux/monitoring/intro-to-graphite.md)
